@@ -5,3 +5,5 @@
 [![codecov](https://codecov.io/gh/patrickleet/open-source-setup/branch/master/graph/badge.svg)](https://codecov.io/gh/patrickleet/open-source-setup)
 
 An example repository showing how I set up my open-source npm modules.
+
+Read about it in my article published on [HackerNoon](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)!
